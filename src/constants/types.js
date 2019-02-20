@@ -1,0 +1,2 @@
+export const GET_FORECAST = 'GET_5_DAY_FORECAST';
+export const GET_USER_LOCATION = 'GET_USER_LOCATION';
